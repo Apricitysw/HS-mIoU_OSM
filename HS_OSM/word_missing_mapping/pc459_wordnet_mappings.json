@@ -1,0 +1,366 @@
+{
+  "airconditioner": [
+    "air",
+    "conditioner"
+  ],
+  "babycarriage": [
+    "baby",
+    "carriage"
+  ],
+  "bambooweaving": [
+    "bamboo",
+    "weaving"
+  ],
+  "baseballbat": [
+    "baseball",
+    "bat"
+  ],
+  "basketballbackboard": [
+    "basketball",
+    "backboard"
+  ],
+  "bottleopener": [
+    "bottle",
+    "opener"
+  ],
+  "cabinetdoor": [
+    "cabinet",
+    "door"
+  ],
+  "cameralens": [
+    "camera",
+    "lens"
+  ],
+  "candleholder": [
+    "candle",
+    "holder"
+  ],
+  "casetterecorder": [
+    "casette",
+    "recorder"
+  ],
+  "cashregister": [
+    "cash",
+    "register"
+  ],
+  "cdplayer": [
+    "cd",
+    "player"
+  ],
+  "clothestree": [
+    "clothes",
+    "tree"
+  ],
+  "coffeemachine": [
+    "coffee",
+    "machine"
+  ],
+  "controlbooth": [
+    "control",
+    "booth"
+  ],
+  "copyingmachine": [
+    "copying",
+    "machine"
+  ],
+  "crabstick": [
+    "crab",
+    "stick"
+  ],
+  "cuttingboard": [
+    "cutting",
+    "board"
+  ],
+  "disccase": [
+    "disc",
+    "case"
+  ],
+  "drainer": [
+    "drain",
+    "er"
+  ],
+  "drinkdispenser": [
+    "drink",
+    "dispenser"
+  ],
+  "drinkingmachine": [
+    "drinking",
+    "machine"
+  ],
+  "drumkit": [
+    "drum",
+    "kit"
+  ],
+  "electricfan": [
+    "electric",
+    "fan"
+  ],
+  "electriciron": [
+    "electric",
+    "iron"
+  ],
+  "electricpot": [
+    "electric",
+    "pot"
+  ],
+  "electricsaw": [
+    "electric",
+    "saw"
+  ],
+  "electronickeyboard": [
+    "electronic",
+    "keyboard"
+  ],
+  "exhibitionbooth": [
+    "exhibition",
+    "booth"
+  ],
+  "faxmachine": [
+    "fax",
+    "machine"
+  ],
+  "ferriswheel": [
+    "ferris",
+    "wheel"
+  ],
+  "fireextinguisher": [
+    "fire",
+    "extinguisher"
+  ],
+  "firehydrant": [
+    "fire",
+    "hydrant"
+  ],
+  "fishingnet": [
+    "fishing",
+    "net"
+  ],
+  "fishingpole": [
+    "fishing",
+    "pole"
+  ],
+  "fishtank": [
+    "fish",
+    "tank"
+  ],
+  "gamecontroller": [
+    "game",
+    "controller"
+  ],
+  "gamemachine": [
+    "game",
+    "machine"
+  ],
+  "gascylinder": [
+    "gas",
+    "cylinder"
+  ],
+  "gashood": [
+    "gas",
+    "hood"
+  ],
+  "gasstove": [
+    "gas",
+    "stove"
+  ],
+  "giftbox": [
+    "gift",
+    "box"
+  ],
+  "glassmarble": [
+    "glass",
+    "marble"
+  ],
+  "harddiskdrive": [
+    "hard",
+    "disk",
+    "drive"
+  ],
+  "horse-drawncarriage": [
+    "horse-drawn",
+    "carriage"
+  ],
+  "hot-airballoon": [
+    "hot-air",
+    "balloon"
+  ],
+  "hydrovalve": [
+    "hydro",
+    "valve"
+  ],
+  "inflatorpump": [
+    "inflator",
+    "pump"
+  ],
+  "ironingboard": [
+    "ironing",
+    "board"
+  ],
+  "kart": [
+    "kart"
+  ],
+  "kitchenrange": [
+    "kitchen",
+    "range"
+  ],
+  "knifeblock": [
+    "knife",
+    "block"
+  ],
+  "laddertruck": [
+    "ladder",
+    "truck"
+  ],
+  "lifebuoy": [
+    "life",
+    "buoy"
+  ],
+  "meterbox": [
+    "meter",
+    "box"
+  ],
+  "musicalinstrument": [
+    "musical",
+    "instrument"
+  ],
+  "oxygenbottle": [
+    "oxygen",
+    "bottle"
+  ],
+  "paperbox": [
+    "paper",
+    "box"
+  ],
+  "papercutter": [
+    "paper",
+    "cutter"
+  ],
+  "pencontainer": [
+    "pen",
+    "container"
+  ],
+  "pokerchip": [
+    "poker",
+    "chip"
+  ],
+  "pooltable": [
+    "pool",
+    "table"
+  ],
+  "pottedplant": [
+    "potted",
+    "plant"
+  ],
+  "rangehood": [
+    "range",
+    "hood"
+  ],
+  "recreationalmachines": [
+    "recreational",
+    "machines"
+  ],
+  "remotecontrol": [
+    "remote",
+    "control"
+  ],
+  "rockinghorse": [
+    "rocking",
+    "horse"
+  ],
+  "sewingmachine": [
+    "sewing",
+    "machine"
+  ],
+  "shoppingcart": [
+    "shopping",
+    "cart"
+  ],
+  "signallight": [
+    "signal",
+    "light"
+  ],
+  "speedbump": [
+    "speed",
+    "bump"
+  ],
+  "spicecontainer": [
+    "spice",
+    "container"
+  ],
+  "stickynote": [
+    "sticky",
+    "note"
+  ],
+  "surveillancecamera": [
+    "surveillance",
+    "camera"
+  ],
+  "swimmingpool": [
+    "swimming",
+    "pool"
+  ],
+  "swimring": [
+    "swim",
+    "ring"
+  ],
+  "telephonebooth": [
+    "telephone",
+    "booth"
+  ],
+  "tong": [
+    "tong"
+  ],
+  "toycar": [
+    "toy",
+    "car"
+  ],
+  "trashbin": [
+    "trash",
+    "bin"
+  ],
+  "tvmonitor": [
+    "tv",
+    "monitor"
+  ],
+  "vacuumcleaner": [
+    "vacuum",
+    "cleaner"
+  ],
+  "vendingmachine": [
+    "vending",
+    "machine"
+  ],
+  "videocamera": [
+    "video",
+    "camera"
+  ],
+  "videogameconsole": [
+    "video",
+    "game",
+    "console"
+  ],
+  "videoplayer": [
+    "video",
+    "player"
+  ],
+  "washingmachine": [
+    "washing",
+    "machine"
+  ],
+  "waterdispenser": [
+    "water",
+    "dispenser"
+  ],
+  "waterpipe": [
+    "water",
+    "pipe"
+  ],
+  "waterskateboard": [
+    "water",
+    "skateboard"
+  ],
+  "windowblinds": [
+    "window",
+    "blinds"
+  ]
+}
